@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face{
+    font-family : neueMachina;
+    src: url("./assets/NeueMachina-Light.otf");
+}
+
+.navbar{
+    font-family: sans-serif;
+}
+
+.landing .head h1{
+    font-family: neueMachina;
+}
+
+.lan-para{
+    font-family: neueMachina;
+}
+
+.fam{
+    font-family: neueMachina;
+}
+
+.color{
+    color: rgb(36,207,166);
+}
+
+.footer p a:hover{
+    color:rgb(36,207,166) ;
+}
