@@ -1,8 +1,15 @@
-# React + Vite
+# Manjeet Coding School - Simple UI Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+This is a simple and clean UI website for Manjeet Coding School built using React. It features a responsive design and smooth animations to provide an engaging user experience. The website highlights information about courses, features, and contact details with a minimalistic approach.
 
-Currently, two official plugins are available:
+## Features
+- Responsive design for desktop and mobile  
+- Clean and minimal UI with modern styling  
+- Smooth animations and transitions powered by GSAP  
+- Easy navigation with a simple menu  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+- React.js  
+- Tailwind CSS  
+- GSAP (GreenSock Animation Platform)
